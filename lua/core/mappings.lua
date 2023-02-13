@@ -42,7 +42,7 @@ M.general = {
       function()
         require("base46").toggle_theme()
       end,
-   n  "toggle theme",
+      "toggle theme",
     },
 
     -- Allow moving the cursor through wrapped lines with j, k, <Up> and <Down>
